@@ -58,7 +58,7 @@
 <vendorCode>6922994103533</vendorCode>
 <barcode>6922994103519</barcode>
 <param name="Вес(кг)">0,4</param><param name="Высота, см">4</param><param name="Ширина, см">19</param><param name="Длина, см">19</param><param name="Складная конструкция">Нет</param><param name="Акустический тип">закрытые</param><param name="Микрофон">Да</param><param name="Тип подключения">беспроводные</param><param name="Цвет">серый</param><param name="Разъем передачи аудио">bluetooth</param><param name="Диапазон воспроизводимых частот, Гц">20-20000</param><param name="Максимальная воспроизводимая частота, Гц">20000</param><param name="Чувствительность, Дб">101</param></offer>
-<offer id="20" available="true">
+<offer id="25" available="true">
 <name>Видеоглазок Rollup IHome5</name>
 <price>7990</price>
 <categoryId>240</categoryId>
