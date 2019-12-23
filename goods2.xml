@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2019-12-12 12:43">
+<shop>
+<name>Multi Shop</name>
+<company>ИП Симакова Л.В.</company>
+<url>https://mifo-shop.ru/</url>
+<currencies>
+<currency id="RUR" rate="1"/>
+</currencies>
+<categories>
+<category id="100">Электроника</category>
+<category id="110" parentId="100">Наушники и аксессуары</category>
+<category id="111" parentId="110">Наушники</category>
+</categories>
+<offers>
+<offer id="1" available="true">
+<name>Беспроводные наушники Mifo O5 standard</name>
+<price>4990</price>
+<categoryId>111</categoryId>
+<currencyId>RUR</currencyId>
+<picture>https://static.tildacdn.com/tild3365-3639-4538-b838-353839393135/product7_a1-2.png</picture>
+<vendor>Mifo</vendor>
+<vendorCode>6922994102918</vendorCode>
+<barcode>6922994102918</barcode>
+<param name="Вес(кг)">0,4</param><param name="Высота, см">4</param><param name="Ширина, см">19</param><param name="Длина, см">19</param><param name="Складная конструкция">Нет</param><param name="Акустический тип">закрытые</param><param name="Микрофон">Да</param><param name="Тип подключения">беспроводные</param><param name="Цвет">серый</param><param name="Разъем передачи аудио">bluetooth</param><param name="Диапазон воспроизводимых частот, Гц">20-20000</param><param name="Максимальная воспроизводимая частота, Гц">20000</param><param name="Чувствительность, Дб">32</param></offer>
+<offer id="2" available="true">
+<name>Беспроводные наушники Mifo O5 Professional</name>
+<price>5490</price>
+<categoryId>111</categoryId>
+<currencyId>RUR</currencyId>
+<picture>https://static.tildacdn.com/tild3466-3831-4464-a336-323832376664/71OAMYPztNL_SL1500_-.jpg</picture>
+<vendor>Mifo</vendor>
+<vendorCode>6922994102925</vendorCode>
+<barcode>6922994102925</barcode>
+<param name="Вес(кг)">0,4</param><param name="Высота, см">4</param><param name="Ширина, см">19</param><param name="Длина, см">19</param><param name="Складная конструкция">Нет</param><param name="Акустический тип">закрытые</param><param name="Микрофон">Да</param><param name="Тип подключения">беспроводные</param><param name="Цвет">серый</param><param name="Разъем передачи аудио">bluetooth</param><param name="Диапазон воспроизводимых частот, Гц">20-20000</param><param name="Максимальная воспроизводимая частота, Гц">20000</param><param name="Чувствительность, Дб">32</param></offer>
+<offer id="3" available="true">
+<name>Беспроводные наушники Mifo O2 black/red</name>
+<price>3990</price>
+<categoryId>111</categoryId>
+<currencyId>RUR</currencyId>
+<picture>https://static.tildacdn.com/tild3864-3432-4632-b736-346438666662/O2--A308-1.png</picture>
+<vendor>Mifo</vendor>
+<vendorCode>6922994103328</vendorCode>
+<barcode>6922994103328</barcode>
+<param name="Вес(кг)">0,4</param><param name="Высота, см">4</param><param name="Ширина, см">19</param><param name="Длина, см">19</param><param name="Складная конструкция">Нет</param><param name="Акустический тип">закрытые</param><param name="Микрофон">Да</param><param name="Тип подключения">беспроводные</param><param name="Цвет">черный</param><param name="Разъем передачи аудио">bluetooth</param><param name="Диапазон воспроизводимых частот, Гц">20-20000</param><param name="Максимальная воспроизводимая частота, Гц">20000</param><param name="Чувствительность, Дб">101</param></offer>
+<offer id="4" available="true">
+<name>Беспроводные наушники Mifo O4 grey</name>
+<price>4990</price>
+<categoryId>111</categoryId>
+<currencyId>RUR</currencyId>
+<picture>https://static.tildacdn.com/tild6261-3232-4732-b130-326164393262/1562570377621082.jpg</picture>
+<vendor>Mifo</vendor>
+<vendorCode>6922994103533</vendorCode>
+<barcode>6922994103533</barcode>
+<param name="Вес(кг)">0,4</param><param name="Высота, см">4</param><param name="Ширина, см">19</param><param name="Длина, см">19</param><param name="Складная конструкция">Нет</param><param name="Акустический тип">закрытые</param><param name="Микрофон">Да</param><param name="Тип подключения">беспроводные</param><param name="Цвет">серый</param><param name="Разъем передачи аудио">bluetooth</param><param name="Диапазон воспроизводимых частот, Гц">20-20000</param><param name="Максимальная воспроизводимая частота, Гц">20000</param><param name="Чувствительность, Дб">101</param></offer>
+</offers>
+</shop>
+</yml_catalog>
