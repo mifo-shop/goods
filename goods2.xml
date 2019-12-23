@@ -11,6 +11,11 @@
 <category id="100">Электроника</category>
 <category id="110" parentId="100">Наушники и аксессуары</category>
 <category id="111" parentId="110">Наушники</category>
+<category id="200">Строительство и ремонт</category>
+<category id="210" parentId="200">Электрика и свет</category>
+  <category id="220" parentId="210">Системы безопасности</category>
+  <category id="230" parentId="220">Звонки и домофоны</category>
+  <category id="240" parentId="230">Звонок дверной радио</category>
 </categories>
 <offers>
 <offer id="1" available="true">
@@ -53,6 +58,16 @@
 <vendorCode>6922994103533</vendorCode>
 <barcode>6922994103519</barcode>
 <param name="Вес(кг)">0,4</param><param name="Высота, см">4</param><param name="Ширина, см">19</param><param name="Длина, см">19</param><param name="Складная конструкция">Нет</param><param name="Акустический тип">закрытые</param><param name="Микрофон">Да</param><param name="Тип подключения">беспроводные</param><param name="Цвет">серый</param><param name="Разъем передачи аудио">bluetooth</param><param name="Диапазон воспроизводимых частот, Гц">20-20000</param><param name="Максимальная воспроизводимая частота, Гц">20000</param><param name="Чувствительность, Дб">101</param></offer>
+<offer id="5" available="true">
+<name>Видеоглазок Rollup IHome5</name>
+<price>7990</price>
+<categoryId>240</categoryId>
+<currencyId>RUR</currencyId>
+<picture>https://thumb.tildacdn.com/tild6136-3837-4130-b637-303462323964/-/resize/600x/-/format/webp/noroot.png</picture>
+<vendor>Rollup</vendor>
+<vendorCode>6513243584236</vendorCode>
+<barcode>6513243584236</barcode>
+<param name="Вес(кг)">0,8</param><param name="Высота, см">7</param><param name="Ширина, см">14</param><param name="Длина, см">25</param></offer>
 </offers>
 </shop>
 </yml_catalog>
