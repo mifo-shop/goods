@@ -68,7 +68,7 @@
 <vendorCode>6513243584236</vendorCode>
 <barcode>6513243584236</barcode>
 <param name="Вес(кг)">0,8</param><param name="Высота, см">7</param><param name="Ширина, см">14</param><param name="Длина, см">25</param></offer>
-</offers>
+
   
 <offer id="30" available="true">
 <name>Sabbat E12 Ultra - Dream Stone</name>
@@ -202,5 +202,6 @@
 <barcode>6972547350167</barcode>
 </offer>  
   
+</offers>  
 </shop>
 </yml_catalog>
