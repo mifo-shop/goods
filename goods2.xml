@@ -69,5 +69,138 @@
 <barcode>6513243584236</barcode>
 <param name="Вес(кг)">0,8</param><param name="Высота, см">7</param><param name="Ширина, см">14</param><param name="Длина, см">25</param></offer>
 </offers>
+  
+<offer id="30" available="true">
+<name>Sabbat E12 Ultra - Dream Stone</name>
+<price>4990</price>
+<categoryId>111</categoryId>
+<currencyId>RUR</currencyId>
+<picture>https://static.tildacdn.com/tild6233-3636-4838-b537-643862353630/WeChat_Image_2019111.png</picture>
+<vendor>Sabbat</vendor>
+<vendorCode>6972547350341</vendorCode>
+<barcode>6972547350341</barcode>
+</offer>
+
+<offer id="31" available="false">
+<name>Sabbat E12 Ultra - Snow white</name>
+<price>4990</price>
+<categoryId>111</categoryId>
+<currencyId>RUR</currencyId>
+<picture>https://static.tildacdn.com/tild3836-6538-4565-a661-636266313563/Snow-2.jpg</picture>
+<vendor>Sabbat</vendor>
+<vendorCode>6972547350402</vendorCode>
+<barcode>6972547350402</barcode>
+</offer>
+
+<offer id="32" available="true">
+<name>Sabbat E12 Ultra - Advanced stone</name>
+<price>4990</price>
+<categoryId>111</categoryId>
+<currencyId>RUR</currencyId>
+<picture>https://static.tildacdn.com/tild3261-3264-4265-b863-333137313036/WeChat_Image_2019111.png</picture>
+<vendor>Sabbat</vendor>
+<vendorCode>6972547350358</vendorCode>
+<barcode>6972547350358</barcode>
+</offer>
+
+<offer id="33" available="false">
+<name>Sabbat E12 Ultra - Bingbo silver</name>
+<price>4990</price>
+<categoryId>111</categoryId>
+<currencyId>RUR</currencyId>
+<picture>https://static.tildacdn.com/tild3533-3365-4062-a264-343132636332/H75bbec081215463e937.jpg</picture>
+<vendor>Sabbat</vendor>
+<vendorCode>6972547350143</vendorCode>
+<barcode>6972547350143</barcode>
+</offer>
+
+<offer id="34" available="true">
+<name>Sabbat E12 Ultra - Amazon</name>
+<price>4990</price>
+<categoryId>111</categoryId>
+<currencyId>RUR</currencyId>
+<picture>https://static.tildacdn.com/tild3366-6665-4561-a338-666461303763/Hcf090a6e873d49a0a8d.jpg</picture>
+<vendor>Sabbat</vendor>
+<vendorCode>6972547350198</vendorCode>
+<barcode>6972547350198</barcode>
+</offer>
+
+<offer id="35" available="false">
+<name>Sabbat E12 Ultra - Gold and copper</name>
+<price>4990</price>
+<categoryId>111</categoryId>
+<currencyId>RUR</currencyId>
+<picture>https://static.tildacdn.com/tild3731-6262-4066-b730-666639656664/H16981c9d31014186918.jpg</picture>
+<vendor>Sabbat</vendor>
+<vendorCode>6972547350150</vendorCode>
+<barcode>6972547350150</barcode>
+</offer>
+
+<offer id="36" available="true">
+<name>Sabbat E12 Ultra - Sahara</name>
+<price>4990</price>
+<categoryId>111</categoryId>
+<currencyId>RUR</currencyId>
+<picture>https://static.tildacdn.com/tild6433-3164-4166-a563-663765393135/H2e21a0673b7346908f1.jpg</picture>
+<vendor>Sabbat</vendor>
+<vendorCode>6972547350211</vendorCode>
+<barcode>6972547350211</barcode>
+</offer>
+
+<offer id="37" available="false">
+<name>Sabbat E12 Ultra - Smocky and grey</name>
+<price>4990</price>
+<categoryId>111</categoryId>
+<currencyId>RUR</currencyId>
+<picture>https://static.tildacdn.com/tild3035-3663-4661-b537-343466333533/H64629e5daa6946c49eb.jpg</picture>
+<vendor>Sabbat</vendor>
+<vendorCode>6972547350174</vendorCode>
+<barcode>6972547350174</barcode>
+</offer>
+
+<offer id="38" available="true">
+<name>Sabbat E12 Ultra - Rock and roll Coffee</name>
+<price>4990</price>
+<categoryId>111</categoryId>
+<currencyId>RUR</currencyId>
+<picture>https://static.tildacdn.com/tild6564-6661-4539-b335-323964323636/Heb1577f5adc74029b01.jpg</picture>
+<vendor>Sabbat</vendor>
+<vendorCode>6972547350181</vendorCode>
+<barcode>6972547350181</barcode>
+</offer>
+
+<offer id="39" available="false">
+<name>Sabbat E12 Ultra - Caribbean</name>
+<price>4990</price>
+<categoryId>111</categoryId>
+<currencyId>RUR</currencyId>
+<picture>https://static.tildacdn.com/tild3664-6332-4635-b839-346533393035/H7858c6102c744901a70.jpg</picture>
+<vendor>Sabbat</vendor>
+<vendorCode>6972547350228</vendorCode>
+<barcode>6972547350228</barcode>
+</offer>
+
+<offer id="40" available="false">
+<name>Sabbat E12 Ultra - Martha Red</name>
+<price>4990</price>
+<categoryId>111</categoryId>
+<currencyId>RUR</currencyId>
+<picture>https://static.tildacdn.com/tild6461-6338-4966-a661-613837623463/He2168b4d02134b9183a.jpg</picture>
+<vendor>Sabbat</vendor>
+<vendorCode>6972547350136</vendorCode>
+<barcode>6972547350136</barcode>
+</offer>
+
+<offer id="41" available="true">
+<name>Sabbat E12 Ultra - Purple</name>
+<price>4990</price>
+<categoryId>111</categoryId>
+<currencyId>RUR</currencyId>
+<picture>https://static.tildacdn.com/tild3066-6632-4663-b161-383939353264/H4831ec05c0104fbc801.jpg</picture>
+<vendor>Sabbat</vendor>
+<vendorCode>6972547350167</vendorCode>
+<barcode>6972547350167</barcode>
+</offer>  
+  
 </shop>
 </yml_catalog>
