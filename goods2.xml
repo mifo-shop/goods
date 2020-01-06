@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2020-01-02 22:43">
+<yml_catalog date="2020-01-05 22:43">
 <shop>
 <name>Multi Shop</name>
 <company>ИП Симакова Л.В.</company>
@@ -81,7 +81,7 @@
 <barcode>6972547350341</barcode>
 </offer>
 
-<offer id="31" available="false">
+<offer id="31" available="true">
 <name>Sabbat E12 Ultra - Snow white</name>
 <price>4990</price>
 <categoryId>111</categoryId>
@@ -103,7 +103,7 @@
 <barcode>6972547350358</barcode>
 </offer>
 
-<offer id="33" available="false">
+<offer id="33" available="true">
 <name>Sabbat E12 Ultra - Bingbo silver</name>
 <price>4990</price>
 <categoryId>111</categoryId>
@@ -125,7 +125,7 @@
 <barcode>6972547350198</barcode>
 </offer>
 
-<offer id="35" available="false">
+<offer id="35" available="true">
 <name>Sabbat E12 Ultra - Gold and copper</name>
 <price>4990</price>
 <categoryId>111</categoryId>
@@ -147,7 +147,7 @@
 <barcode>6972547350211</barcode>
 </offer>
 
-<offer id="37" available="false">
+<offer id="37" available="true">
 <name>Sabbat E12 Ultra - Smocky and grey</name>
 <price>4990</price>
 <categoryId>111</categoryId>
@@ -169,7 +169,7 @@
 <barcode>6972547350181</barcode>
 </offer>
 
-<offer id="39" available="false">
+<offer id="39" available="true">
 <name>Sabbat E12 Ultra - Caribbean</name>
 <price>4990</price>
 <categoryId>111</categoryId>
@@ -180,7 +180,7 @@
 <barcode>6972547350228</barcode>
 </offer>
 
-<offer id="40" available="false">
+<offer id="40" available="true">
 <name>Sabbat E12 Ultra - Martha Red</name>
 <price>4990</price>
 <categoryId>111</categoryId>
