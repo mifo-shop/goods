@@ -147,7 +147,7 @@
 <barcode>6972547350211</barcode>
 </offer>
 
-<offer id="37" available="true">
+<offer id="37" available="false">
 <name>Sabbat E12 Ultra - Smocky and grey</name>
 <price>4990</price>
 <categoryId>111</categoryId>
