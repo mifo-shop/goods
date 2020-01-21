@@ -158,7 +158,7 @@
 <barcode>6972547350174</barcode>
 </offer>
 
-<offer id="38" available="true">
+<offer id="38" available="false">
 <name>Sabbat E12 Ultra - Rock and roll Coffee</name>
 <price>4990</price>
 <categoryId>111</categoryId>
