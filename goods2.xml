@@ -191,7 +191,7 @@
 <barcode>6972547350136</barcode>
 </offer>
 
-<offer id="41" available="true">
+<offer id="41" available="false">
 <name>Sabbat E12 Ultra - Purple</name>
 <price>4990</price>
 <categoryId>111</categoryId>
