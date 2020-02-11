@@ -81,7 +81,7 @@
 <barcode>6972547350341</barcode>
 </offer>
 
-<offer id="31" available="false">
+<offer id="31" available="true">
 <name>Sabbat E12 Ultra - Snow white</name>
 <price>4990</price>
 <categoryId>111</categoryId>
