@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2020-02-11 11:00">
+<yml_catalog date="2020-03-12 11:00">
 <shop>
 <name>Multi Shop</name>
 <company>ИП Симакова Л.В.</company>
@@ -18,7 +18,8 @@
   <category id="240" parentId="230">Звонок дверной радио</category>
 </categories>
 <offers>
-<offer id="1" available="true">
+
+ <offer id="1" available="true">
 <name>Беспроводные наушники Mifo O5 standard</name>
 <price>4990</price>
 <categoryId>111</categoryId>
@@ -28,7 +29,8 @@
 <vendorCode>6922994102918</vendorCode>
 <barcode>6922994102918</barcode>
 <param name="Вес(кг)">0,4</param><param name="Высота, см">4</param><param name="Ширина, см">19</param><param name="Длина, см">19</param><param name="Складная конструкция">Нет</param><param name="Акустический тип">закрытые</param><param name="Микрофон">Да</param><param name="Тип подключения">беспроводные</param><param name="Цвет">серый</param><param name="Разъем передачи аудио">bluetooth</param><param name="Диапазон воспроизводимых частот, Гц">20-20000</param><param name="Максимальная воспроизводимая частота, Гц">20000</param><param name="Чувствительность, Дб">32</param></offer>
-<offer id="2" available="true">
+
+ <offer id="2" available="true">
 <name>Беспроводные наушники Mifo O5 Professional</name>
 <price>5490</price>
 <categoryId>111</categoryId>
@@ -38,7 +40,8 @@
 <vendorCode>6922994102925</vendorCode>
 <barcode>6922994102925</barcode>
 <param name="Вес(кг)">0,4</param><param name="Высота, см">4</param><param name="Ширина, см">19</param><param name="Длина, см">19</param><param name="Складная конструкция">Нет</param><param name="Акустический тип">закрытые</param><param name="Микрофон">Да</param><param name="Тип подключения">беспроводные</param><param name="Цвет">серый</param><param name="Разъем передачи аудио">bluetooth</param><param name="Диапазон воспроизводимых частот, Гц">20-20000</param><param name="Максимальная воспроизводимая частота, Гц">20000</param><param name="Чувствительность, Дб">32</param></offer>
-<offer id="3" available="true">
+
+ <offer id="3" available="true">
 <name>Беспроводные наушники Mifo O2 black/red</name>
 <price>3990</price>
 <categoryId>111</categoryId>
@@ -48,7 +51,8 @@
 <vendorCode>6922994103328</vendorCode>
 <barcode>6922994103328</barcode>
 <param name="Вес(кг)">0,4</param><param name="Высота, см">4</param><param name="Ширина, см">19</param><param name="Длина, см">19</param><param name="Складная конструкция">Нет</param><param name="Акустический тип">закрытые</param><param name="Микрофон">Да</param><param name="Тип подключения">беспроводные</param><param name="Цвет">черный</param><param name="Разъем передачи аудио">bluetooth</param><param name="Диапазон воспроизводимых частот, Гц">20-20000</param><param name="Максимальная воспроизводимая частота, Гц">20000</param><param name="Чувствительность, Дб">101</param></offer>
-<offer id="4" available="true">
+
+ <offer id="4" available="true">
 <name>Беспроводные наушники Mifo O4 grey</name>
 <price>4990</price>
 <categoryId>111</categoryId>
@@ -58,7 +62,8 @@
 <vendorCode>6922994103533</vendorCode>
 <barcode>6922994103519</barcode>
 <param name="Вес(кг)">0,4</param><param name="Высота, см">4</param><param name="Ширина, см">19</param><param name="Длина, см">19</param><param name="Складная конструкция">Нет</param><param name="Акустический тип">закрытые</param><param name="Микрофон">Да</param><param name="Тип подключения">беспроводные</param><param name="Цвет">серый</param><param name="Разъем передачи аудио">bluetooth</param><param name="Диапазон воспроизводимых частот, Гц">20-20000</param><param name="Максимальная воспроизводимая частота, Гц">20000</param><param name="Чувствительность, Дб">101</param></offer>
-<offer id="25" available="true">
+
+ <offer id="25" available="true">
 <name>Видеоглазок Rollup IHome5</name>
 <price>7990</price>
 <categoryId>240</categoryId>
