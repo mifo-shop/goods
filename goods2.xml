@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2020-04-27 12:10">
+<yml_catalog date="2020-05-01 11:10">
 <shop>
 <name>Multi Shop</name>
 <company>ИП Симакова Л.В.</company>
@@ -86,7 +86,7 @@
 <barcode>6972547350341</barcode>
 </offer>
 
-<offer id="31" available="false">
+<offer id="31" available="true">
 <name>Sabbat E12 Ultra - Snow white</name>
 <price>4990</price>
 <categoryId>111</categoryId>
@@ -97,7 +97,7 @@
 <barcode>6972547350402</barcode>
 </offer>
 
-<offer id="32" available="false">
+<offer id="32" available="true">
 <name>Sabbat E12 Ultra - Advanced stone</name>
 <price>4990</price>
 <categoryId>111</categoryId>
@@ -108,7 +108,7 @@
 <barcode>6972547350358</barcode>
 </offer>
 
-<offer id="33" available="false">
+<offer id="33" available="true">
 <name>Sabbat E12 Ultra - Bingbo silver</name>
 <price>4990</price>
 <categoryId>111</categoryId>
@@ -119,7 +119,7 @@
 <barcode>6972547350143</barcode>
 </offer>
 
-<offer id="34" available="false">
+<offer id="34" available="true">
 <name>Sabbat E12 Ultra - Amazon</name>
 <price>4990</price>
 <categoryId>111</categoryId>
@@ -152,7 +152,7 @@
 <barcode>6972547350211</barcode>
 </offer>
 
-<offer id="37" available="false">
+<offer id="37" available="true">
 <name>Sabbat E12 Ultra - Smocky and grey</name>
 <price>4990</price>
 <categoryId>111</categoryId>
@@ -163,7 +163,7 @@
 <barcode>6972547350174</barcode>
 </offer>
 
-<offer id="38" available="false">
+<offer id="38" available="true">
 <name>Sabbat E12 Ultra - Rock and roll Coffee</name>
 <price>4990</price>
 <categoryId>111</categoryId>
@@ -174,7 +174,7 @@
 <barcode>6972547350181</barcode>
 </offer>
 
-<offer id="39" available="false">
+<offer id="39" available="true">
 <name>Sabbat E12 Ultra - Caribbean</name>
 <price>4990</price>
 <categoryId>111</categoryId>
@@ -185,7 +185,7 @@
 <barcode>6972547350228</barcode>
 </offer>
 
-<offer id="40" available="false">
+<offer id="40" available="true">
 <name>Sabbat E12 Ultra - Martha Red</name>
 <price>4990</price>
 <categoryId>111</categoryId>
@@ -196,7 +196,7 @@
 <barcode>6972547350136</barcode>
 </offer>
 
-<offer id="41" available="false">
+<offer id="41" available="true">
 <name>Sabbat E12 Ultra - Purple</name>
 <price>4990</price>
 <categoryId>111</categoryId>
