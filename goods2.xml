@@ -185,7 +185,7 @@
 <barcode>6972547350228</barcode>
 </offer>
 
-<offer id="40" available="true">
+<offer id="40" available="false">
 <name>Sabbat E12 Ultra - Martha Red</name>
 <price>5490</price>
 <categoryId>111</categoryId>
