@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2020-06-07 14:55">
+<yml_catalog date="2020-06-11 19:55">
 <shop>
 <name>Multi Shop</name>
 <company>ИП Симакова Л.В.</company>
@@ -163,7 +163,7 @@
 <barcode>6972547350174</barcode>
 </offer>
 
-<offer id="38" available="true">
+<offer id="38" available="false">
 <name>Sabbat E12 Ultra - Rock and roll Coffee</name>
 <price>5490</price>
 <categoryId>111</categoryId>
@@ -196,7 +196,7 @@
 <barcode>6972547350136</barcode>
 </offer>
 
-<offer id="41" available="true">
+<offer id="41" available="false">
 <name>Sabbat E12 Ultra - Purple</name>
 <price>5490</price>
 <categoryId>111</categoryId>
