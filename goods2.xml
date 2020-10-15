@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2020-10-11 10:59">
+<yml_catalog date="2020-10-15 18:09">
 <shop>
 <name>Multi Shop</name>
 <company>ИП Симакова Л.В.</company>
@@ -119,7 +119,7 @@
 <barcode>6972547350143</barcode>
 </offer>
 
-<offer id="34" available="true">
+<offer id="34" available="false">
 <name>Sabbat E12 Ultra - Amazon</name>
 <price>5490</price>
 <categoryId>111</categoryId>
