@@ -86,7 +86,7 @@
 <barcode>6972547350341</barcode>
 </offer>
 
-<offer id="31" available="false">
+<offer id="31" available="true">
 <name>Sabbat E12 Ultra - Snow white</name>
 <price>5490</price>
 <categoryId>111</categoryId>
@@ -119,7 +119,7 @@
 <barcode>6972547350143</barcode>
 </offer>
 
-<offer id="34" available="false">
+<offer id="34" available="true">
 <name>Sabbat E12 Ultra - Amazon</name>
 <price>5490</price>
 <categoryId>111</categoryId>
@@ -152,7 +152,7 @@
 <barcode>6972547350211</barcode>
 </offer>
 
-<offer id="37" available="false">
+<offer id="37" available="true">
 <name>Sabbat E12 Ultra - Smocky and grey</name>
 <price>5490</price>
 <categoryId>111</categoryId>
@@ -196,7 +196,7 @@
 <barcode>6972547350136</barcode>
 </offer>
 
-<offer id="41" available="false">
+<offer id="41" available="true">
 <name>Sabbat E12 Ultra - Purple</name>
 <price>5490</price>
 <categoryId>111</categoryId>
