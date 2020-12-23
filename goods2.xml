@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2020-12-18 11:31">
+<yml_catalog date="2020-12-23 12:14">
 <shop>
 <name>Multi Shop</name>
 <company>ИП Симакова Л.В.</company>
@@ -86,7 +86,7 @@
 <barcode>6972547350341</barcode>
 </offer>
 
-<offer id="31" available="true">
+<offer id="31" available="false">
 <name>Sabbat E12 Ultra - Snow white</name>
 <price>5490</price>
 <categoryId>111</categoryId>
