@@ -75,7 +75,7 @@
 <param name="Вес(кг)">0,8</param><param name="Высота, см">7</param><param name="Ширина, см">14</param><param name="Длина, см">25</param></offer>
 
   
-<offer id="30" available="false">
+<offer id="30" available="true">
 <name>Sabbat E12 Ultra - Dream Stone</name>
 <price>5490</price>
 <categoryId>111</categoryId>
