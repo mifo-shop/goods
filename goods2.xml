@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2021-06-19 23:22">
+<yml_catalog date="2021-06-28 23:22">
 <shop>
 <name>Multi Shop</name>
 <company>ИП Симакова Л.В.</company>
@@ -108,7 +108,7 @@
 <barcode>6972547350358</barcode>
 </offer>
 
-<offer id="33" available="true">
+<offer id="33" available="false">
 <name>Sabbat E12 Ultra - Bingbo silver</name>
 <price>5490</price>
 <categoryId>111</categoryId>
